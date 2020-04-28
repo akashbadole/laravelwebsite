@@ -1,3 +1,3 @@
 ## Making website using laravel
 Output:
-![bootstrap](https://raw.githubusercontent.com/akashbadole/bootstrap-bootwatch/master/home_page.png)
+![bootstrap](https://github.com/akashbadole/laravelwebsite/blob/master/home_page.png)
